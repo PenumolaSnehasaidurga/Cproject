@@ -15,7 +15,7 @@ else if(units>50&&units<=150)
   printf("Your electricity bill is Rs%f",0.75*units);
 else if(units>150&&units<=250)
   printf("Your electricity bill is Rs%f",1.20*units);
-else if(units>250
+else if(units>250)
   printf("Your electricity bill is Rs%f",1.50*units);
 else 
   printf("Wrong input"); 
