@@ -3,7 +3,7 @@ include<stdio.h>
 #include<math.h>
 main()
 {
-int n,l=0,t,v,r,s=0;
+int n,t,v,r,s=0,l=0;
 printf("Enter your number");
 scanf("%d",&n);
 t=n;
